@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6EBF860D-020E-4E4D-96E0-347AFF1C5430}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PDFReader/PDFComparer.cs">
+    <Files>
+      <File FileName="PDFReader/PDFDocument.cs" Line="118" Column="23" />
+      <File FileName="PDFReader/PDFComparer.cs" Line="99" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
